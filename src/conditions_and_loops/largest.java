@@ -11,10 +11,12 @@ public class largest {
         // question: find the largest of three numbers
         int max=a;
         if (b>max){
-            max = b;}
+            max = b;
+        }
 
         if(c>max){
-        max = c;}
+        max = c;
+        }
         System.out.println(max);
 
     }

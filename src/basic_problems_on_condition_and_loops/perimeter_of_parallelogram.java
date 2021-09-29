@@ -1,4 +1,4 @@
-package problems_on_condition_and_loops;
+package basic_problems_on_condition_and_loops;
 
 import java.util.Scanner;
 

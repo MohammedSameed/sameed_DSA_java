@@ -1,6 +1,6 @@
 // question : subtract the product and sum of digits of an integer
 
-package problems_on_condition_and_loops;
+package basic_problems_on_condition_and_loops;
 
 import java.util.Scanner;
 
