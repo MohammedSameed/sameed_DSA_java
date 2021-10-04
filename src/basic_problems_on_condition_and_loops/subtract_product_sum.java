@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class subtract_product_sum {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int num = 345;
+        int num =input.nextInt();
         int ans = 0;
         int multiply=1;
         int addition =0;
