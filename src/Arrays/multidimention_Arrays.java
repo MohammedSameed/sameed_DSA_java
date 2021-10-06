@@ -29,13 +29,17 @@ public class multidimention_Arrays {
 
             }
         }
-        for (int row = 0; row< Array.length;row++){
-            //for each collom in every row
-            for (int col = 0; col< Array[row].length;col++){
-                System.out.print(Array[row][col] + " ");
-
-            }
-            System.out.println();
+        //output
+//        for (int row = 0; row< Array.length;row++){
+//            //for each collom in every row
+//            for (int col = 0; col< Array[row].length;col++){
+//                System.out.print(Array[row][col] + " ");
+//
+//            }
+//            System.out.println();
+        for (int [] a :Array){
+            System.out.println(Array.toString());
+        }
         }
     }
-}
+
