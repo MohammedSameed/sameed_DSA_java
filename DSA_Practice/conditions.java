@@ -3,7 +3,7 @@ package DSA_Practice;
 import java.util.*;
 
 
-public class condition_loops {
+public class conditions {
 
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
