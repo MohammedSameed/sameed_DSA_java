@@ -1,0 +1,482 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "condition_loops",
+            "request": "launch",
+            "mainClass": "DSA_Practice.condition_loops",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "input_output",
+            "request": "launch",
+            "mainClass": "DSA_Practice.input.input_output",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Array_for_permutation",
+            "request": "launch",
+            "mainClass": "Arrays.Array_for_permutation",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "Array_list_example",
+            "request": "launch",
+            "mainClass": "Arrays.Array_list_example",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "Basics_of_Arrays",
+            "request": "launch",
+            "mainClass": "Arrays.Basics_of_Arrays",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "Concatenation_of_Array",
+            "request": "launch",
+            "mainClass": "Arrays.Concatenation_of_Array",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "Swap",
+            "request": "launch",
+            "mainClass": "Arrays.Swap",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "colum_no_fixed",
+            "request": "launch",
+            "mainClass": "Arrays.colum_no_fixed",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "inputs_and_outputs_in_Arrays",
+            "request": "launch",
+            "mainClass": "Arrays.inputs_and_outputs_in_Arrays",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "maximum_item",
+            "request": "launch",
+            "mainClass": "Arrays.maximum_item",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "multidimention_Arrays",
+            "request": "launch",
+            "mainClass": "Arrays.multidimention_Arrays",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "multidimentional_Arraylist",
+            "request": "launch",
+            "mainClass": "Arrays.multidimentional_Arraylist",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "passing_in_function",
+            "request": "launch",
+            "mainClass": "Arrays.passing_in_function",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "reverse_of_array",
+            "request": "launch",
+            "mainClass": "Arrays.reverse_of_array",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "richest_customer_wealth",
+            "request": "launch",
+            "mainClass": "Arrays.richest_customer_wealth",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "shuffle_the_array",
+            "request": "launch",
+            "mainClass": "Arrays.shuffle_the_array",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "Linear_search",
+            "request": "launch",
+            "mainClass": "Searching.Linear_search",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "basic_calculator",
+            "request": "launch",
+            "mainClass": "basic_problems.basic_calculator",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "check_largest",
+            "request": "launch",
+            "mainClass": "basic_problems.check_largest",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "conversion_rupees_into_dollars",
+            "request": "launch",
+            "mainClass": "basic_problems.conversion_rupees_into_dollars",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "even_or_odd",
+            "request": "launch",
+            "mainClass": "basic_problems.even_or_odd",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "greeting",
+            "request": "launch",
+            "mainClass": "basic_problems.greeting",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "simple_interest",
+            "request": "launch",
+            "mainClass": "basic_problems.simple_interest",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "area_of_circle",
+            "request": "launch",
+            "mainClass": "basic_problems_on_condition_and_loops.area_of_circle",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "area_of_triangle",
+            "request": "launch",
+            "mainClass": "basic_problems_on_condition_and_loops.area_of_triangle",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "curved_surface_area_of_cylinder",
+            "request": "launch",
+            "mainClass": "basic_problems_on_condition_and_loops.curved_surface_area_of_cylinder",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "perimeter_of_parallelogram",
+            "request": "launch",
+            "mainClass": "basic_problems_on_condition_and_loops.perimeter_of_parallelogram",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "perimeter_of_rhombus",
+            "request": "launch",
+            "mainClass": "basic_problems_on_condition_and_loops.perimeter_of_rhombus",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "subtract_product_sum",
+            "request": "launch",
+            "mainClass": "basic_problems_on_condition_and_loops.subtract_product_sum",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "volume_of_pyramid",
+            "request": "launch",
+            "mainClass": "basic_problems_on_condition_and_loops.volume_of_pyramid",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "Inputs",
+            "request": "launch",
+            "mainClass": "com.Sameed.Inputs",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.Sameed.Main",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "basics",
+            "request": "launch",
+            "mainClass": "com.Sameed.basics",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "primitives",
+            "request": "launch",
+            "mainClass": "com.Sameed.primitives",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "com.Sameed.sum",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "type_conversion_and_casting",
+            "request": "launch",
+            "mainClass": "com.Sameed.type_conversion_and_casting",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "conditions_and_loops.Loops",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "basics(1)",
+            "request": "launch",
+            "mainClass": "conditions_and_loops.basics",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "conditions_and_loops.calculator",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "count_numbers",
+            "request": "launch",
+            "mainClass": "conditions_and_loops.count_numbers",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci_number",
+            "request": "launch",
+            "mainClass": "conditions_and_loops.fibonacci_number",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "largest",
+            "request": "launch",
+            "mainClass": "conditions_and_loops.largest",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "conditions_and_loops.reverse",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "type_check",
+            "request": "launch",
+            "mainClass": "conditions_and_loops.type_check",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "Function_overloading",
+            "request": "launch",
+            "mainClass": "functions_or_methods_in_java.Function_overloading",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "Question_no1",
+            "request": "launch",
+            "mainClass": "functions_or_methods_in_java.Question_no1",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "Question_no2",
+            "request": "launch",
+            "mainClass": "functions_or_methods_in_java.Question_no2",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "Scoping",
+            "request": "launch",
+            "mainClass": "functions_or_methods_in_java.Scoping",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "basics_of_functions",
+            "request": "launch",
+            "mainClass": "functions_or_methods_in_java.basics_of_functions",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "change_value",
+            "request": "launch",
+            "mainClass": "functions_or_methods_in_java.change_value",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "greeting_from_function",
+            "request": "launch",
+            "mainClass": "functions_or_methods_in_java.greeting_from_function",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "passing_example",
+            "request": "launch",
+            "mainClass": "functions_or_methods_in_java.passing_example",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "shadowing",
+            "request": "launch",
+            "mainClass": "functions_or_methods_in_java.shadowing",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "string_example",
+            "request": "launch",
+            "mainClass": "functions_or_methods_in_java.string_example",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "swap",
+            "request": "launch",
+            "mainClass": "functions_or_methods_in_java.swap",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "variable_length_argument",
+            "request": "launch",
+            "mainClass": "functions_or_methods_in_java.variable_length_argument",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "factorial_program_in_java",
+            "request": "launch",
+            "mainClass": "intermediate_condition_and_loops_problems.factorial_program_in_java",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "question_no1",
+            "request": "launch",
+            "mainClass": "questions_on_function.question_no1",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "question_no8",
+            "request": "launch",
+            "mainClass": "questions_on_function.question_no8",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "basics_of_switch",
+            "request": "launch",
+            "mainClass": "switch_statements.basics_of_switch",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "nested_switch_statement",
+            "request": "launch",
+            "mainClass": "switch_statements.nested_switch_statement",
+            "projectName": "sameed_DSA_java_c3d72855"
+        }
+    ]
+}
