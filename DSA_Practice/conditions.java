@@ -51,7 +51,7 @@ public class conditions {
         if(d==e){
             System.out.println("equal");}
             else if(d>e){
-                System.out.println("d is greater");
+                System.out.println("d is greater"); 
             }
             else{
                 System.out.println("d is smaller");

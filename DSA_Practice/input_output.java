@@ -1,4 +1,4 @@
-package DSA_Practice.input;
+package DSA_Practice;
 
 import java.util.*;
 class input_output{
