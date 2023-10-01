@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "functions",
+            "request": "launch",
+            "mainClass": "DSA_Practice.functions",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "functions_methods",
+            "request": "launch",
+            "mainClass": "DSA_Practice.functions_methods",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
+            "name": "loops",
+            "request": "launch",
+            "mainClass": "DSA_Practice.loops",
+            "projectName": "sameed_DSA_java_c3d72855"
+        },
+        {
+            "type": "java",
             "name": "condition_loops",
             "request": "launch",
             "mainClass": "DSA_Practice.condition_loops",
